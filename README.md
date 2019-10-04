@@ -11,3 +11,7 @@ I implemented Iterative Dichotomiser 3 (ID3).
 2 [Selected Algorithms of Machine Learning
 from Examples](https://people.eecs.ku.edu/~jerzygb/j24-sel.pdf
 )
+
+
+## How to run
+1 Run main.m
